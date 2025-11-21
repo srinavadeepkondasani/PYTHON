@@ -1,2 +1,28 @@
 # n=[1,2,5,8,9,11,5,7,16,7,95]
 # print(n[1::2])
+# n=[12,7,8,9,15]
+# print(len(n))
+# print(sum(n))
+# print(max(n))
+# print(min(n))
+# n=[12,7],[8,9,15]
+# print(sum(sum(n,[])))
+# n=["India","China","UK","Canada","Russia"]
+# n.sort(reverse=True)
+# print(n)
+# n=["India","China","UK","Canada","Russia"]
+# sorted(n)
+# print(n)
+# n=["India","China","UK","Canada","Russia"]
+# m=sorted(n)
+# print(n)
+# print(m)
+# n=[(101,"priya"),(12,"Shub"),(37,"Art")]
+# n.sort()
+# print(n)
+# n=[(101,"Priya"),(12,"Shub"),(37,"Art")]
+# m=sorted(n,key=lambda x:x[1])
+# print(m)
+# n=[("Shub",101,"Lko"),("Prabhu",187,"Viz"),("Karthik",198,"Goa")]
+# m=sorted(n,key=lambda x:x[2])
+# print(m)
